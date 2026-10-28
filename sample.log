@@ -1,0 +1,8 @@
+2026-10-28 10:01:02 INFO Starting payments-api version 1.4.2
+2026-10-28 10:01:03 INFO Connected to PostgreSQL
+2026-10-28 10:02:10 WARN Slow request: GET /health took 2.4s
+2026-10-28 10:02:15 ERROR Database connection timeout after 3000ms
+2026-10-28 10:02:16 ERROR Request failed: GET /orders returned 500
+2026-10-28 10:02:20 WARN Retrying database connection (attempt 1/3)
+2026-10-28 10:02:23 ERROR Database connection timeout after 3000ms
+2026-10-28 10:03:00 INFO Database connection restored
